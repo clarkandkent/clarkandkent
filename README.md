@@ -10,7 +10,7 @@ At **Clark + Kent**, we believe in the power of digital to drive growth, improve
 
 - **Digital Strategy Development:** Crafting a comprehensive roadmap to guide your digital initiatives.
   
-- **Process Optimization:** Streamlining your business processes with the latest technologies.
+- **Process Optimisation:** Streamlining your business processes with the latest technologies.
   
 - **Digital Integration:** Ensuring seamless integration of new digital solutions with your existing systems.
 
@@ -20,11 +20,11 @@ At **Clark + Kent**, we believe in the power of digital to drive growth, improve
 
 ## 📍 Location
 
-🏢 **Address:** [Your Address Here], Leeds
+🏢 **Address:** 32 Park Cross Street St, Leeds, LS1 2QH
 
-📞 **Phone:** [Your Phone Number]
+📞 **Phone:** 0113 468 9300
 
-📧 **Email:** [Your Email Address]
+📧 **Email:** info@clarkandkent.co.uk
 
 ## 🤝 Connect With Us
 
